@@ -108,3 +108,10 @@ python main.py
 ## Development Approach
 
 Built iteratively using an agile-style workflow — core gameplay first, then accessibility features, then adaptive difficulty and LLM integration. AI-assisted development tools were used throughout as a collaborative layer alongside manual reasoning, debugging, and testing.
+
+---
+
+## References
+
+- UNESCO (2020). *Global education monitoring report: Inclusion and education.* Paris: UNESCO.
+- Yuan, B., Folmer, E. and Harris, F.C. (2011). 'Game accessibility: A survey', *Universal Access in the Information Society*, 10(1), pp. 81–100.
