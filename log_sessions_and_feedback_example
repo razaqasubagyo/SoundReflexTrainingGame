@@ -1,0 +1,53 @@
+{
+    "timestamp": "2026-01-23_12-03-10",
+    "average_reaction_time": 1.363365149497986,
+    "errors": 0,
+    "difficulty_level": 1.0
+}
+{
+    "timestamp": "2026-01-24_20-35-24",
+    "average_reaction_time": 1.095248770713806,
+    "errors": 1,
+    "difficulty_level": 1.0
+}
+{
+    "timestamp": "2026-01-26_11-59-30",
+    "average_reaction_time": 0.9980714082717895,
+    "errors": 1,
+    "difficulty_level": 1.0
+}
+Timestamp: 2026-01-23_12-03-14
+
+=== Performance ===
+Average Reaction Time: 1.363 seconds
+Errors: 0
+Difficulty Level: 1.0
+
+=== LLM Feedback ===
+Analysis: Your session performance is outstanding with zero errors, demonstrating remarkable precision and careful attention. The steady average reaction time further indicates a thoughtful and deliberate approach. 
+Recommendation: To maintain this excellent accuracy and prevent fatigue, consider checking your accessibility settings to ensure optimal comfort, or take short, regular breaks between sessions. 
+Motivation: You've shown exceptional skill and focus; keep nurturing that amazing capability! 
+
+Timestamp: 2026-01-24_20-35-27
+
+=== Performance ===
+Average Reaction Time: 1.095 seconds
+Errors: 1
+Difficulty Level: 1.0
+
+=== LLM Feedback ===
+Analysis: You demonstrated excellent accuracy with only one error, indicating strong focus and understanding during the session. Your reaction time was also consistent, reflecting steady engagement. 
+Recommendation: To help maintain your impressive accuracy and focus, consider ensuring your current setup (lighting, screen distance, seating) is optimally comfortable for sustained engagement. 
+Motivation: You are doing wonderfully; celebrate this great progress and consistency in your training! 
+
+Timestamp: 2026-01-26_11-59-34
+
+=== Performance ===
+Average Reaction Time: 0.998 seconds
+Errors: 1
+Difficulty Level: 1.0
+
+=== LLM Feedback ===
+Analysis: Your reaction time is excellent, demonstrating great focus and quick processing. Achieving such speed with only a single error is a very strong performance. 
+Recommendation: Consider reviewing the specific error you made to see if a slight adjustment to your input method or environment could further enhance your precision. 
+Motivation: You're showing remarkable consistency and quick thinking – every session builds on this fantastic progress! 
