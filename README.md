@@ -4,7 +4,7 @@ An accessible, audio-based reflex training application built in Python, designed
 
 ## Overview
 
-Many training applications are overly heavy and complex, limiting accessibility for their intended users. Sound Reflex addresses this by providing a lightweight, inclusive training tool that relies on audio-based interaction and adaptive pacing — removing the dependency on visual cues and reducing barriers for users with disabilities.
+Many training applications are overly heavy and complex, limiting accessibility for their intended users. Sound Reflex addresses this by providing a lightweight, inclusive training tool that relies on audio-based interaction and adaptive pacing, removing the dependency on visual cues and reducing barriers for users with disabilities.
 
 The application is intended for use in educational institutions, rehabilitation programs, and similar settings to support measurable improvement in auditory processing, motor response coordination, and sustained attention.
 
@@ -40,8 +40,3 @@ The application is structured as separate Python modules, each with a distinct r
 Developed as an individual MSc project at Warwick Business School (2026) as part of the MSc in Management of Information Systems & Digital Innovation.
 
 Built using an iterative, agile-style workflow — features were developed incrementally with AI-assisted development tools used as a collaborative layer alongside manual reasoning, debugging, and testing.
-
-## References
-
-- UNESCO (2020). *Global education monitoring report: Inclusion and education.* Paris: UNESCO.
-- Yuan, B., Folmer, E. and Harris, F.C. (2011). 'Game accessibility: A survey', *Universal Access in the Information Society*, 10(1), pp. 81–100.
